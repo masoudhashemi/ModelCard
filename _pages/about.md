@@ -2,7 +2,7 @@
 layout: page
 title: Trust & Governance Lab
 permalink: /about
-comments: true
+comments: false
 ---
 
 The Trust and Governance Lab in ServiceNow is a team focused on ensuring the highest levels of trust and governance in the ServiceNow platform. This includes working on initiatives such as data privacy, security, compliance, and risk management. 
