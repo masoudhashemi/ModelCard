@@ -3,7 +3,7 @@ layout: post
 title:  "Face Detection"
 author: john
 categories: [ detection, CNN ]
-tags: [red, yellow]
+tags: [image, face]
 image: assets/images/model_cards_audience_profiles.jpg
 description: "The model analyzed in this card detects one or more faces within an image or a video frame, and returns a box around each face along with the location of the faces' major landmarks. The model's goal is exclusively to identify the existence and location of faces in an image. It does not attempt to discover identities or demographics."
 featured: false
