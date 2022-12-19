@@ -17,7 +17,7 @@ On this page, you can learn more about how well the model performs on images wit
 
 ## MODEL DESCRIPTION
 
-![walking]({{ site.baseurl }}/assets/images/model-info-img.png)
+![face-detection]({{ site.baseurl }}/assets/images/model-info-img.png)
 
 **Input**: Photo(s) or video(s)
 
