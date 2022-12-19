@@ -1,14 +1,13 @@
 # Site
 name: "ServiceNow Model Cards"
 title: "ServiceNow Model Cards"
-description: "Model cards are a type of document that provide information about the performance, limitations, and ethical considerations of a machine learning model, and are used to help users understand and properly use the model within the ServiceNow platform."
+description: "Model cards provide information about the performance, limitations, and ethical considerations of a machine learning model, and are used to help a wide range of audiences understand and properly use the model within the ServiceNow platform."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/modelcard'
 url: ''
 google_analytics: ''
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 
 # Authors
