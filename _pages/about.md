@@ -1,35 +1,12 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Trust & Governance Lab
 permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+The Trust and Governance Lab in ServiceNow is a team focused on ensuring the highest levels of trust and governance in the ServiceNow platform. This includes working on initiatives such as data privacy, security, compliance, and risk management. 
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+The team works closely with other teams within ServiceNow to ensure that all processes and systems are designed with trust and governance in mind, and they also work to continuously improve and enhance the trust and governance capabilities of the company's services. 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+The goal of the Trust and Governance Lab is to ensure that ServiceNow's customers can have confidence in the security, integrity, and reliability of the company's SaaS offerings, and to help the company maintain its reputation as a trusted provider of cloud-based services.
