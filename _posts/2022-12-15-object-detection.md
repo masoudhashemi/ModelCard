@@ -6,6 +6,8 @@ categories: [ detection, CNN ]
 tags: [image, face]
 image: assets/images/model_cards_four_hands.jpg
 description: "The model analyzed in this card detects one or more physical objects within an image, from apparel and animals to tools and vehicles, and returns a box around each object, as well as a label and description for each object."
+beforetoc: "The model analyzed in this card detects one or more physical objects within an image, from apparel and animals to tools and vehicles, and returns a box around each object, as well as a label and description for each object."
+toc: true
 featured: false
 hidden: false
 ---
