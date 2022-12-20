@@ -17,8 +17,6 @@ The model analyzed in this card detects one or more physical objects within an i
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-On this page, you can learn more about how the model performs on different classes of objects, and what kinds of images you should expect the model to perform well or poorly on.
-
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/obj-detection-model-description.png" alt="object-detection" /></p>
 
 <h4>MODEL DESCRIPTION</h4>
