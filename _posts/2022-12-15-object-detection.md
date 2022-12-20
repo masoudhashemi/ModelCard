@@ -19,7 +19,6 @@ On this page, you can learn more about how the model performs on different class
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/obj-detection-model-description.png" alt="object-detection" /></p>
 
-
 <h4>MODEL DESCRIPTION</h4>
 
 <p><b>Input</b>: Photo(s) or video(s)</p>
