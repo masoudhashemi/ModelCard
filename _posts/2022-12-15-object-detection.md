@@ -10,14 +10,14 @@ featured: false
 hidden: false
 ---
 
+The model analyzed in this card detects one or more physical objects within an image, from apparel and animals to tools and vehicles, and returns a box around each object, as well as a label and description for each object.
+
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>The model analyzed in this card detects one or more physical objects within an image, from apparel and animals to tools and vehicles, and returns a box around each object, as well as a label and description for each object.</p>
-
 On this page, you can learn more about how the model performs on different classes of objects, and what kinds of images you should expect the model to perform well or poorly on.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/obj-detection-model-description" alt="object-detection" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/obj-detection-model-description.png" alt="object-detection" /></p>
 
 
 <h4>MODEL DESCRIPTION</h4>
@@ -53,6 +53,7 @@ On this page, you can learn more about how the model performs on different class
  <li>Open Images Validation set, which contains ~40k images and 600 object classes, of which the model can recognize 518.</li>
  <li>An internal Google dataset of ~5,000 images of consumer products, containing 210 object classes, all of which model can recognize.</li>
 </ul>
+
 </div>
 </div>
 </div>
