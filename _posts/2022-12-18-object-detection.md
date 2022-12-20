@@ -10,6 +10,8 @@ featured: false
 hidden: false
 ---
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
 
 The model analyzed in this card detects one or more physical objects within an image, from apparel and animals to tools and vehicles, and returns a box around each object, as well as a label and description for each object.
 
@@ -30,6 +32,11 @@ On this page, you can learn more about how the model performs on different class
 
 Model architecture: Single shot detector model with a Resnet 101 backbone and a feature pyramid network feature map.
 
+</div>
+
+<div class="col-md-4">
+<div class="sticky-top sticky-top-80">
+
 ## PERFORMANCE
 
 Performance evaluated for specific object classes recognized by the model (e.g. shirt, muffin), and for categories of objects (e.g. apparel, food).
@@ -43,3 +50,7 @@ Performance evaluated on two datasets distinct from the training set:
 
 + Open Images Validation set, which contains ~40k images and 600 object classes, of which the model can recognize 518.
 + An internal Google dataset of ~5,000 images of consumer products, containing 210 object classes, all of which model can recognize.
+
+</div>
+</div>
+</div>
