@@ -1,7 +1,7 @@
 # Site
-name: "ServiceNow Model Cards"
-title: "ServiceNow Model Cards"
-description: "Model cards provide information about the performance, limitations, and ethical considerations of a machine learning model, and are used to help a wide range of audiences understand and properly use the model within the ServiceNow platform."
+name: "MyCompany Model Cards"
+title: "MyCompany Model Cards"
+description: "Model cards provide information about the performance, limitations, and ethical considerations of a machine learning model, and are used to help a wide range of audiences understand and properly use the models."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/modelcard'
@@ -15,13 +15,13 @@ authors:
   sal:
     name: Sal
     display_name: Sal
-    email: sal@servicenow.com
-    description: "ML engineer at ServiceNow."
+    email: sal@mycompany.com
+    description: "ML engineer at MyCompany."
   john:
     name: John
     display_name: John    
-    email: john@gservicenow.com
-    description: "Applied Research Scientist at ServiceNow."
+    email: john@mycompany.com
+    description: "Applied Research Scientist at MyCompany."
 
 # Plugins
 plugins:

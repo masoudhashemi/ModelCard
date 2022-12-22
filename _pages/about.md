@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Trust & Governance Lab
+title: Model Cards for Model Reporting
 permalink: /about
 comments: false
 ---
 
-The Trust and Governance Lab in ServiceNow is a team focused on ensuring the highest levels of trust and governance in the ServiceNow platform. This includes working on initiatives such as data privacy, security, compliance, and risk management. 
+Model cards are a simple way to make models more understandable and to encourage responsible use. They are a lightweight way to document the key characteristics of a model, and to provide a checklist for ethical considerations. They are designed to be completed by the model developers, and to be shared with the users of the model.
 
-The team works closely with other teams within ServiceNow to ensure that all processes and systems are designed with trust and governance in mind, and they also work to continuously improve and enhance the trust and governance capabilities of the company's services. 
+Model cards are a lightweight way to document the key characteristics of a model, and to provide a checklist for ethical considerations. They are designed to be completed by the model developers, and to be shared with the users of the model.
 
-The goal of the Trust and Governance Lab is to ensure that ServiceNow's customers can have confidence in the security, integrity, and reliability of the company's SaaS offerings, and to help the company maintain its reputation as a trusted provider of cloud-based services.
+This site is a collection of model cards for machine learning models. The goal is to provide a resource for model developers and users to learn from each other. We hope that this will help to improve the transparency and accountability of machine learning models.
